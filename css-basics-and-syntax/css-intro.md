@@ -1,6 +1,6 @@
 # Introduction to CSS
 
-In the lesson of this section you will learn:
+In the lessons of this section you will learn:
 
 - What is CSS and the meaning of the word "Cascade".
 - The role of CSS in web development.

@@ -1,6 +1,6 @@
 # CSS Syntax and Selectors
 
-In the lesson of this section you will learn:
+In the lessons of this section you will learn:
 
 - What is a CSS selector.
 - Simple Selectors

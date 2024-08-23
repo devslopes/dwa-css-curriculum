@@ -1,8 +1,10 @@
 # How are the styles being applied
 
+In the lessons of this section you will learn:
+
 - The Rules overlapping selectors follow to apply styles
-  - CSS Specificity
-  - The order the styles a getting applied to HTML elemnts with
+- CSS Specificity
+- The order the styles a getting applied to HTML elements with
 
 ## Class videos:
 
