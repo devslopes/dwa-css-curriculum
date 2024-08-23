@@ -10,4 +10,4 @@ In the lessons of this section you will learn:
 ## Class videos:
 
 - [CSS basics](https://www.loom.com/share/fe4cdcbd02814795a1f0478a9a45c587?sid=90fb9370-9086-4601-a933-6c54c7fe45fa)
-- [The best way to add styles to your HTML document](https://www.loom.com/share/6fe1e1229b7a4f399c193bc9455fa0be?sid=d180197a-6bb1-44d9-a959-6797d5f0f2d8)
+- [The best way to add styles to your HTML document](https://www.loom.com/share/52da7bfd676247c9ac9b3f17ae8fd669?sid=6968a03c-180d-44b1-b242-2088a88c7c3d)
