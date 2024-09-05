@@ -9,5 +9,5 @@ In the lessons of this section you will learn:
 
 ## Class videos:
 
-- [CSS basics](https://www.loom.com/share/fe4cdcbd02814795a1f0478a9a45c587?sid=90fb9370-9086-4601-a933-6c54c7fe45fa)
+- [CSS basics](https://www.loom.com/share/c41a4153a65d4fc5a53a618ca6fdcc73?sid=4f3ee5cb-b9fd-4fa4-b549-84412bef78fd)
 - [The best way to add styles to your HTML document](https://www.loom.com/share/52da7bfd676247c9ac9b3f17ae8fd669?sid=6968a03c-180d-44b1-b242-2088a88c7c3d)
