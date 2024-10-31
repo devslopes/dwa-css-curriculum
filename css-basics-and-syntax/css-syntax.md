@@ -9,7 +9,7 @@ In the lessons of this section you will learn:
 - Compound selectors
 - CSS Combinators
 
-## Class videos:
+## Class Videos
 
 - [Simple Selectors](https://www.loom.com/share/6a109166c3674f6da809e7a5a458c7de?sid=cf6ee689-f569-4b82-977e-7f9fa1e4f135)
 - [Pseudo-elements and the ways to select them](https://www.loom.com/share/5e228f6f97ea4ad583a19eb7419b2ea8?sid=6100c0cc-f4e9-4ce4-82cc-8b3dd8c52867)
