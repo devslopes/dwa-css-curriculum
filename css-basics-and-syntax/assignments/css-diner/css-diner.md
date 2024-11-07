@@ -29,4 +29,4 @@ For any developer wanting to sharpen their CSS skills or for beginners needing t
 
 Example:
 
-![resilts](./images/css-diner-result.png)
+![results](./images/css-diner-result.png)
