@@ -1,6 +1,6 @@
 # Intro to CSS Colors and Color Systems
 
-In the lessons of this section you will learn:
+In the lesson of this section you will learn:
 
 - How Colors are defined in CSS
 - What color systems are available in CSS

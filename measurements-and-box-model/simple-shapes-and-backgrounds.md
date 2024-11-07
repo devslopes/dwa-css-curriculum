@@ -1,5 +1,7 @@
 # Simple Shapes and Backgrounds
 
+In the lesson of this section you will learn:
+
 - Create basic shapes
   - Square
   - Circle
