@@ -4,10 +4,10 @@ In the lessons of this section you will learn:
 
 - What a CSS animation is
 - How a CSS animation is defined
-- what transitions are available
+- What transitions are available
 - How to set different types of animations
-- what an animation keyframe is
-- how to control individual keyframes of an animation
+- What an animation keyframe is
+- How to control individual keyframes of an animation
 
 ## Class Videos
 

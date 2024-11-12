@@ -10,4 +10,4 @@ In this lesson of this section you will learn:
 
 ## Class Videos
 
-- [Media Queries](https://www.loom.com/share/ddd6353464074881b7209ffc2776f45c?sid=edd57bdc-f5cf-4616-b4d3-a2cd78e75a82)
+- [Responsive Layouts](https://www.loom.com/share/ddd6353464074881b7209ffc2776f45c?sid=edd57bdc-f5cf-4616-b4d3-a2cd78e75a82)

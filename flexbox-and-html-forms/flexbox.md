@@ -4,7 +4,7 @@ In this lessons of this section you will learn:
 
 - What Flexbox is
 - How to define a flexbox
-- common flexbox properties
+- Common flexbox properties
 - How to use flexbox to create UI components
 
 ## Class Videos

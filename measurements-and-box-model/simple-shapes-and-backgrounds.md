@@ -3,10 +3,10 @@
 In the lesson of this section you will learn:
 
 - Create basic shapes
-  - Square
-  - Circle
-  - Rectangle
-  - Oval
+  - square
+  - circle
+  - rectangle
+  - oval
 - Create some more complex shapes
   - stars
   - other common polygons

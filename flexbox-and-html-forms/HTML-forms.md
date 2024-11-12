@@ -4,8 +4,8 @@ In this lessons of this section you will learn:
 
 - How to set up an HTML Form
 - Common parts of a form
-- how to style different parts of a form
-- how to get the correct values out of a form
+- How to style different parts of a form
+- How to get the correct values out of a form
 
 ## Class Videos
 

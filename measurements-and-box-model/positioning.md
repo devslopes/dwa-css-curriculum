@@ -4,7 +4,7 @@ In the lesson of this section you will learn:
 
 - What CSS Positioning options are available
 - Common Use Cases for different positioning options
-- how different constraints interact with each other
+- How different constraints interact with each other
 
 ## Class Video
 
