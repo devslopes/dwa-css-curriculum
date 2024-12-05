@@ -14,7 +14,7 @@ For any developer wanting to strengthen their layout skills or for beginners nee
 
 ## Requirements
 
-- [ ] Visit the Flexbox Froggy game web app.
+- [ ] Visit the [Flexbox Froggy game web app](https://flexboxfroggy.com/).
 - [ ] Complete ALL 24 levels.
 - [ ] Submit the screenshot of the game that follows the "Acceptance criteria" through the submission form in the Devslopes learning platform.
 
